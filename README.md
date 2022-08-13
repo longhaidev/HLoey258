@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @HLoey258 I am a fresher.
 - 🌱 I’m currently learning HTML - CSS - JS
 - I created this github for the purpose of saving Uni's project and working in group 
-- 📫 How to reach me ... brb 
+- 📫 How to reach me ... 
+  + Contact via email: longhai.hua1006@gmail.com
+  or Find me on Facebook: https://www.facebook.com/longhai1006/
 
 <!---
 HLoey258/HLoey258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
