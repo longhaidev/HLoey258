@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Hai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="hloey258" /> </p>
-<img alt="img-coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
+<img align="center" alt="img-coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
 
 
 - 📫 How to reach me **longhai.hua1006@gmail.com**
