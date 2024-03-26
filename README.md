@@ -44,8 +44,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 🤓 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloey258)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hloey258&show_icons=true&locale=en&layout=compact" alt="hloey258" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloey258&show_icons=true&theme=radical)  
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hloey258&show_icons=true&locale=en" alt="hloey258" /></p>
 
