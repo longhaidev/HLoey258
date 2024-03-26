@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long Hai</h1>
 
 # About me
-<div style="display:flex;flex-direction:row;justify-content:space-between">
+<div style="display:flex;flex-direction:row;justify-content:space-between;">
   <div>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="hloey258" /> </p>
     <span> 🏫 Studied at the 
@@ -44,9 +44,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 🤓 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloey258&show_icons=true&theme=radical)  
+<p>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloey258&show_icons=true&theme=radical)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hloey258&layout=compact&theme=radical)
+</p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hloey258&show_icons=true&locale=en" alt="hloey258" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hloey258&" alt="hloey258" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hloey258&theme=radical" alt="hloey258" /></p>
