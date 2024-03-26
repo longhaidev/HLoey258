@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Hai</h1>
 
-# About me
+# 😎 About me
 <div style="display:flex;flex-direction:row;justify-content:space-between;">
   <div>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="hloey258" /> </p>
