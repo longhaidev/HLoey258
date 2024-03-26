@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long Hai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="hloey258" /> </p>
 <img align="center" alt="img-coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
+
 # About me
 <span> 🏫 Studied E-Commerce at the 
   <a href="https://www.uit.edu.vn/" style="text-decoration:underline; ">
@@ -11,8 +12,8 @@
 
 # 😊 Contact 
 <p>📧: longhai.hua1006@gmail.com</p>
-<p>📧: longhai.hua1006@gmail.com</p>
-<p>📧: longhai.hua1006@gmail.com</p>
+<p>🌐: <a href="https://hloey258.github.io/longhaiportfolio/">Portfolio</a></p>
+
 # 🖥️ Tech Stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
