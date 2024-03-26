@@ -3,6 +3,7 @@
 # About me
 <div style="display:flex;flex-direction:row;justify-content:space-between">
   <div>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="hloey258" /> </p>
     <span> 🏫 Studied E-Commerce at the 
       <a href="https://www.uit.edu.vn/" style="text-decoration:underline; ">
           University of Information Technology - VNUHCM
@@ -11,7 +12,6 @@
     <p> 💡 I am currently learning <b>Front-end/Back-end</b></p>
   </div>
   <div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="hloey258" /> </p>
     <img align="center" alt="img-coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
   </div>
 </div>
