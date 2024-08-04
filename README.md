@@ -3,7 +3,7 @@
 # 😎 About me
 <div style="display:flex;flex-direction:row;justify-content:space-between;">
   <div>
-     <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="hloey258" /> </p>
+     <p align="left"> <img src="https://komarev.com/ghpvc/?username=hloey258&label=Profile%20views&color=0e75b6&style=flat" alt="longhaidev" /> </p>
     <span> 🏫 Studied at the 
       <a href="https://www.uit.edu.vn/" style="text-decoration:underline; ">
           University of Information Technology - VNUHCM
@@ -51,4 +51,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hloey258&theme=radical" alt="hloey258" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hloey258&theme=radical" alt="longhaidev" /></p>
